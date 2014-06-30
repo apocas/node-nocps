@@ -15,7 +15,8 @@
     "noc-ps"
   ],
   "dependencies": {
-    "xmlrpc": "*"
+    "xmlrpc": "git://github.com/apocas/node-xmlrpc.git",
+    "async": "*"
   },
   "devDependencies": {
     "chai": "~1.7.0",
