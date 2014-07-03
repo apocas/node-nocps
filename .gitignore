@@ -4,3 +4,5 @@ node_modules
 alpha.js
 
 test.png
+
+examples/internal.js

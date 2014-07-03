@@ -10,7 +10,7 @@ var dc1 = new NOCPS(opts);
 
 dc1.findHost('asfaf.sdafsaf.saf', function(host) {
   console.log(host);
-  host.getPowerStatus(function(err, data) {
+  host.getPowerStatus('ipmi', function(err, data) {
     console.log(data);
   });
 });

@@ -1,7 +1,7 @@
 {
   "name": "noc-ps",
   "description": "NOC-PS xml-rpc node.js wrapper ",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": "Pedro Dias <petermdias@gmail.com>",
   "maintainers": [
     "apocas <petermdias@gmail.com>"
